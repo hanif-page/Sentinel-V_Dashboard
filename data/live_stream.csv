@@ -1,0 +1,6 @@
+device_name,timestamp,raw_freq,smooth_freq,raw_mag,smooth_mag,isDanger
+Main_Motor_A,0,230.129,244.798,9.32753,6.60271,1
+Cooling_Fan_01,0,172.836,187.653,9.22309,7.43767,1
+Hydraulic_Pump_02,0,315.967,349.547,5.06861,5.21406,1
+Main_Motor_B,0,304.5,171.067,2.11015,3.43008,0
+Cooling_Fan_03,0,437.154,391.859,9.96005,7.73422,1
