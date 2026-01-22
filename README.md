@@ -3,10 +3,10 @@
 This is Muhammad Ammar Hanif self-project.
 
 ## Milestones
-- [ ] Build the live sensor simulator CPP engine
-- [ ] Build the Intelligence Bridge (consume the live_stream.csv data)
-- [ ] Build the UI/UX Dashboard using the Python Streamlit module
-- [ ] Final Polish, Error Management
+- [x] Build the live sensor simulator CPP engine
+- [x] Build the Intelligence Bridge (consume the live_stream.csv data)
+- [x] Build the UI/UX Dashboard using the Python Streamlit module
+- [ ] Final Polish, Final Functionality, Error/Bug Management
 
 ## Overview
 Sentinel-V is an end-to-end monitoring solution designed to predict mechanical failure in industrial assets. It bridges high-performance C++ hardware simulation with a Python-based AI intelligence layer.
